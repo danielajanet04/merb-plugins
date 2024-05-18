@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Optimize function calls to method calls (#8507)
