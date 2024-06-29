@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
