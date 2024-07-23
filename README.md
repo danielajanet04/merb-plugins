@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+YAML reformat (#7669)
